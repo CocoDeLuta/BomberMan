@@ -6,7 +6,7 @@ import random
 pygame.init()
 
 # Configurações do grid
-WIDTH, HEIGHT = 600, 650  # Aumenta altura para a HUD
+WIDTH, HEIGHT = 650, 650  # Aumenta altura para a HUD
 ROWS, COLS = 10, 10
 CELL_SIZE = WIDTH // COLS
 HUD_HEIGHT = 50  # Espaço para a HUD
